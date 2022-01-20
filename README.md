@@ -1,7 +1,5 @@
-# NewSelfbot
-gunakanlah dengan bijak
+INSTALL MELALUI TERMUX
 
-#INSTALL MELALUI TERMUX
 pkg install python
 apt-get update
 pip install --upgrade pip
